@@ -1,6 +1,6 @@
-# Olá, eu sou o Diego! :cat:
+# <div align="center"> Olá, eu sou o Diego! :cat:
 
-### About me    :octocat:
+### <div align="center"> About me    :octocat:
  <div align="center">
   
  Amante da natureza e entusiasta da tecnologia. <br>
