@@ -4,7 +4,7 @@
  <div align="center">
   
  Amante da natureza e entusiasta da tecnologia. <br>
-  Atualmente estou no 6º semestre do curso de <i> Análise e Desenvolvimento de Sistemas</i>, FATEC.<br><br><br>
+ QA com foco em automação com Selenium e Cypress
 
 
 
