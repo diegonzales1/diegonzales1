@@ -4,7 +4,7 @@
  <div align="center">
   
  Amante da natureza e entusiasta da tecnologia. <br>
- QA com foco em automação com Selenium e Cypress
+ QA com foco em automação de testes com Selenium e Cypress
 
 
 
